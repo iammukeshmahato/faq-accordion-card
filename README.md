@@ -20,9 +20,9 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Links
 
--  Solution URL: [Click Here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html-and-css-owVJujYs59)
+-  Solution URL: [Click Here](https://www.frontendmentor.io/solutions/faq-accordion-card-UDn1j_qB7E)
 
--  Live Site URL: [Click Here](https://iammukeshmahato.github.io/nft-preview-card-component)
+-  Live Site URL: [Click Here](https://iammukeshmahato.github.io/faq-accordion-card/)
 
 ## ⚙ Built with
 
